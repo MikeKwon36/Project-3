@@ -1,5 +1,5 @@
-# **Android Development Immersive Project 3**
-## **Title: Vice City**
+# **Title: Vice City**
+## **Description: Vice Media news aggregator**
 ## **Developers: David Sarker, Greg Daly, Austin Jones, Mike Kwon**
 
 
